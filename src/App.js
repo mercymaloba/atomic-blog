@@ -186,7 +186,7 @@ function Archive({ onAddPost }) {
 }
 
 function Footer() {
-  return <footer>&copy; by Atomic Blog ✌️</footer>;
+  return <footer>&copy; by  the Atomic Blog ✌️</footer>;
 }
 
 export default App;
